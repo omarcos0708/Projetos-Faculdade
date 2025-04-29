@@ -66,9 +66,6 @@ Os modelos foram construídos com dados sintéticos gerados para simular cenári
   - **Vendas do mês anterior** (coef. +0.65)  
   - **Investimento em marketing** (coef. +0.23)  
 
-**Visualização**:  
-![Gráfico de vendas reais vs previstas](link_imagem)  
-
 ### **3.2 Detecção de Fraudes**  
 | Métrica       | Valor  |  
 |---------------|--------|  
@@ -122,10 +119,3 @@ https://github.com/omarcos0708/Projetos-Faculdade.git
 ### **5.2 Referências**  
 - Scikit-learn Documentation  
 - "Hands-On Machine Learning" – Aurélien Géron  
-
---- 
-
-Este relatório pode ser adaptado para incluir:  
-- Gráficos adicionais  
-- Tabelas comparativas  
-- Detalhes técnicos específicos conforme necessidade
